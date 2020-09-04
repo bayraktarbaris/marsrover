@@ -15,5 +15,6 @@ Also, you can comment out line 38-39 in main.py. It shows plateau sketch using 0
 ## Test
 
     coverage run -m unittest tests
+    coverage html
 
 Test coverage report can be found ind htmlcov/index.html
