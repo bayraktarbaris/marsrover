@@ -1,7 +1,8 @@
 # marsrover
 
 ## Installation:
-
+Python 3 <br>
+    
     pip install -r requirements.txt
 
 ## Run:
